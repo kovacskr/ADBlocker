@@ -1,5 +1,33 @@
+# Title: kovacskr/hosts
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 01 October 2021 02:00:34 (UTC)
+# Number of unique domains: 90,982#
+# ===============================================================
+# Custom host records are listed here.
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+# End of custom host records.
+# Start kovacskr
+
 #=====================================
+
 # Title: Hosts contributed by Kristian Kovacs
+# www.maxit.sk
 
 0.0.0.0 wizhumpgyros.com
 0.0.0.0 coccyxwickimp.com
@@ -1782,9 +1810,9 @@
 0.0.0.0 status.sublineover.net
 
 # Added May 4, 2021
-0.0.0.0 docs.pipenv.org # https://github.com/StevenBlack/hosts/issues/1635
+0.0.0.0 docs.pipenv.org
 
-# Added May 10, 2021  See discussion in Issue https://github.com/StevenBlack/hosts/pull/1643
+# Added May 10, 2021 
 0.0.0.0 a9v8.cn
 0.0.0.0 config.unityads.unitychina.cn
 0.0.0.0 cu-cn-north00001.gala.convection.cn
@@ -1859,7 +1887,6 @@
 0.0.0.0 www.whynotwin11.com
 
 # Added June 30, 2021
-# Chase Bank Scam. See #1699
 0.0.0.0 www.secure-verify-info.ddns.info
 0.0.0.0 secure-verify-info.ddns.info
 0.0.0.0 www.secure-verify-account.ddns.info
@@ -1887,14 +1914,14 @@
 0.0.0.0 www.seure-update.fartit.com
 0.0.0.0 seure-update.fartit.com
 
-# Added July 29, 2021 See https://github.com/StevenBlack/hosts/issues/1721
+# Added July 29, 2021
 0.0.0.0 www.updatecatalogs.com
 0.0.0.0 microsoft.updatecatalogs.com
 0.0.0.0 webmail.mmtimes.net
 0.0.0.0 myanmar.flymna.net
 0.0.0.0 new.mmtimes.org
 
-# Added August 2, 2021 See https://github.com/StevenBlack/hosts/issues/1722
+# Added August 2, 2021 
 0.0.0.0 ackng.com
 0.0.0.0 bb3u9.com
 0.0.0.0 ttr3p.com
@@ -1912,7 +1939,7 @@
 0.0.0.0 b69kq.com
 0.0.0.0 down.sqlnetcat.com
 
-# Added August 8, 2021 see https://github.com/StevenBlack/hosts/issues/1725
+# Added August 8, 2021 
 0.0.0.0 gjapplog.ucweb.com
 0.0.0.0 logssug.ucweb.com
 0.0.0.0 attr.union.ucweb.com
@@ -1923,8 +1950,8 @@
 # Added September 17, 2021
 0.0.0.0 mmsotk.com
 
-# Added September 24, 2021 see https://github.com/StevenBlack/hosts/issues/1764
+# Added September 24, 2021
 0.0.0.0 discord-app.net
 
-# Added October 2, 2021 see https://github.com/StevenBlack/hosts/issues/1770
+# Added October 2, 2021 
 0.0.0.0 sk.mplmnt.io
